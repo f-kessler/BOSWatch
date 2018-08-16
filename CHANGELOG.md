@@ -7,6 +7,7 @@
 - FMS und ZVEI Support für Pushover Plugin [#352](https://github.com/Schrolli91/BOSWatch/pull/352)
 - Benutzerdefinierte Nachrichten für Pushover Plugin in config [#352](https://github.com/Schrolli91/BOSWatch/pull/352)
 ##### Changed
+- multicastAlarm - Buffer nach jedem Alarm löschen [#370](https://github.com/Schrolli91/BOSWatch/pull/370)
 ##### Deprecated
 ##### Removed
 ##### Fixed
